@@ -1,0 +1,17 @@
+# example repository config (see 'hg help config' for more info)
+[paths]
+default = http://91.148.1.249:443//D:/rep/test
+#default = ssh://developer@91.148.1.249:443//D:/rep/test
+#default = d:\Temp\test
+
+
+# path aliases to other clones of this repo in URLs or filesystem paths
+# (see 'hg help config.paths' for more info)
+#
+# default:pushurl = ssh://jdoe@example.net/hg/jdoes-fork
+# my-fork         = ssh://jdoe@example.net/hg/jdoes-fork
+# my-clone        = /home/jdoe/jdoes-clone
+
+[ui]
+# name and email (local to this repository, optional), e.g.
+# username = Jane Doe <jdoe@example.com>
